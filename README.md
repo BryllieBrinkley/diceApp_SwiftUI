@@ -1,5 +1,5 @@
 # diceApp_SwiftUI
-A remake of my original diceApp using SwiftUI and State variables. Allows users to tap the 'Roll' button, causing both dice faces to change randomly
+A remake of my original diceApp by using SwiftUI and State variables. Allows users to tap the 'Roll' button, causing both dice faces to change randomly.
 
 
 # Installation & How to Run this project
